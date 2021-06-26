@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\conrank\Desktop\SuperSimpleStockMarket\SimpleStcokMarket\build\CMakeFiles\34605766035b53e2d88e2f64a6e51bbe\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\conrank\Desktop\SuperSimpleStockMarket\SimpleStcokMarket\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\conrank\Desktop\SuperSimpleStockMarket\SimpleStcokMarket\build\test\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50ACBDF6-1702-3FD1-B0F8-E146E6248B8C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
